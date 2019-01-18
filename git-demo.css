@@ -5,6 +5,11 @@ body{
 	background: #c0c0c0;
 }
 
+h1 {
+    color: orange;
+    background: purple;
+}
+
 p {
     font-family: sans-serif;
 }
