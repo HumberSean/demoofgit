@@ -8,3 +8,8 @@ body{
 p {
     font-family: sans-serif;
 }
+
+footer p {
+    font-size: 0.75em;
+    font-family: monospace;
+}
